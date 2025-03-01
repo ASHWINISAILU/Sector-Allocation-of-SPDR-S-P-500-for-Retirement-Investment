@@ -1,6 +1,8 @@
 **Sector Allocation of SPDR S&P 500 for Retirement Investment**
 
 **Abstract**
+
+
 Personal finance management is a critical skill for financial stability, especially for long-term retirement planning. Many individuals refrain from investing in the capital market due to concerns over volatility and 
 risk management. Exchange-Traded Funds (ETFs), particularly the SPDR S&P 500, provide a diversified and relatively stable investment platform for retirement. This study aims to analyze sector allocations within the 
 SPDR S&P 500 to optimize returns while minimizing risks. Machine learning models such as Random Forest Regressor and Gradient Boosting Regressor are employed to predict sector-wise returns over different time horizons. By incorporating inflation rates and economic factors, the study offers insights into creating a balanced retirement investment strategy.
